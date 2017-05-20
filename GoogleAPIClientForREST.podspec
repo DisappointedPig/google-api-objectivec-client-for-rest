@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.author       = 'Google Inc.'
   s.homepage     = 'https://github.com/google/google-api-objectivec-client-for-rest'
   s.license      = { :type => 'Apache', :file => 'LICENSE' }
-  s.source       = { :git => 'https://github.com/google/google-api-objectivec-client-for-rest.git',
+  s.source       = { :git => 'https://github.com/DisappointedPig/google-api-objectivec-client-for-rest.git',
                      :tag => "v#{s.version}" }
   s.summary      = 'Google APIs Client Library for Objective-C (REST)'
   s.description  = <<-DESC
